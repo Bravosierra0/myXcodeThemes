@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.502087 0.690926 0.312159 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>IBMPlexMonoFreeze-Italic - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.936379 0.843467 0.510247 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>IBMPlexMonoFreeze-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.319853 0.612933 0.815191 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>IBMPlexMonoFreeze-Regular - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>IBMPlexMonoFreeze-Italic - 12.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.74176 0.741738 0.741751 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>IBMPlexSans - 12.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.028538 0.0276045 0.0169203 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.278999 0.278999 0.278999 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTFontSizeModifier</key>
+	<integer>-1</integer>
+	<key>DVTLineSpacing</key>
+	<real>1</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.172 0.172 0.172 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.23824 0.23824 0.23824 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0.743831 0.743809 0.743821 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNS-RegularItalic - 14.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.743831 0.743809 0.743821 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.765427 0.575755 0.280098 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNS-Regular - 14.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.743831 0.743809 0.743821 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNS-Regular - 14.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0.743831 0.743809 0.743821 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNS-Regular - 20.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0.743831 0.743809 0.743821 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNS-Regular - 35.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0.743831 0.743809 0.743821 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNS-Regular - 26.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0.743831 0.743809 0.743821 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNS-Bold - 14.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.113725 0.113725 0.113725 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.0588235 0.0588235 0.0588235 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.999899 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.192157 0.192157 0.192157 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.25098 0.25098 0.25098 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.705882 0.647059 0.623529 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.960784 0.454902 0.431373 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.372549 0.372549 0.372549 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.52549 0.52549 0.52549 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.627451 0.627451 0.627451 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.418908 0.716787 0.501194 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.806377 0.777211 0.131152 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.662745 0.741176 0.133333 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.270588 0.72549 0.85098 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.639216 0.878431 0.501961 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.560784 0.831373 1 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.462745 0.729412 0.160784 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.360784 0.568627 0.898039 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.871805 0.857908 0.576452 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.552941 0.615686 0.85098 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.705882 0.8 0.0941176 0.8</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.235294 0.756863 0.901961 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.572549 0.733333 0.384314 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.494118 0.882353 0.878431 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.9 0.108452 0.493686 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.8 0.799976 0.799989 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.773051 0.831569 0.514373 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.796078 0.470588 0.921569 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.937255 0.937255 0.937255 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.627451 0.529412 0.458824 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.93659 0.217702 0.281224 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.581556 0.865521 0.427853 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.496531 0.79007 0.999017 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.745789 0.407041 0.896604 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.921502 0.921474 0.92149 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.960784 0.317647 0.34902 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.52549 0.52549 0.466667 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.character</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>IBMPlexMonoFreeze-Italic - 13.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>IBMPlexMonoFreeze-Italic - 13.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>IBMPlexMonoFreeze-Italic - 13.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>IBMPlexMono-Medm - 15.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>IBMPlexMonoFreeze-Italic - 13.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>IBMPlexMonoFreeze-BoldItalic - 15.0</string>
+		<key>xcode.syntax.number</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+		<key>xcode.syntax.string</key>
+		<string>IBMPlexSansCond-Text - 15.0</string>
+		<key>xcode.syntax.url</key>
+		<string>IBMPlexMonoFreeze-Regular - 15.0</string>
+	</dict>
+</dict>
+</plist>
