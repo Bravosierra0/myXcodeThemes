@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.449775 0.541155 0.0202088 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>MonoLisaNL-Regular - 13.0</string>
+	<string>MonoLisaCoding-Regular - 13.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.127549 0.462659 0.782314 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>MonoLisaNL-Regular - 13.0</string>
+	<string>MonoLisaCodingMedium-Regular - 13.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.741763 0.213253 0.0735304 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>MonoLisaNL-Regular - 13.0</string>
+	<string>MonoLisaCoding-BoldItalic - 13.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.449775 0.541155 0.0202088 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>MonoLisaNL-Regular - 13.0</string>
+	<string>MonoLisaCoding-Regular - 13.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.44058 0.509629 0.516858 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>IBMPlexSans - 13.0</string>
+	<string>IBMPlexSans-Medm - 13.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.0159244 0.126521 0.159696 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -164,69 +164,69 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>MonoLisaNL-RegularItalic - 14.0</string>
+		<string>MonoLisaCodingSemiBold-Italic - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>MonoLisaNL-RegularItalic - 14.0</string>
+		<string>MonoLisaCodingSemiBold-Italic - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>MonoLisaNL-Bold - 15.0</string>
+		<string>MonoLisanoscript-Bold - 15.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>MonoLisaNLSemiBold-Regular - 15.0</string>
+		<string>MonoLisanoscriptSemiBold-Regular - 15.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>MonoLisaNLSemiBold-Regular - 15.0</string>
+		<string>MonoLisanoscriptSemiBold-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisanoscript-RegularItalic - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisanoscript-RegularItalic - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisanoscript-RegularItalic - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisanoscript-RegularItalic - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>MonoLisaNL-Bold - 15.0</string>
+		<string>MonoLisanoscriptSemiBold-Regular - 15.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>MonoLisaNL-Bold - 15.0</string>
+		<string>MonoLisanoscript-Bold - 15.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>MonoLisaNLBlack-Regular - 15.0</string>
+		<string>MonoLisanoscriptBlack-Regular - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisanoscript-RegularItalic - 15.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisaCodingExtraLight-Italic - 14.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisaCodingExtraLight-Italic - 14.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisaCodingExtraLight-Italic - 14.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisaCodingExtraLight-Italic - 14.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>MonoLisaNL-RegularItalic - 15.0</string>
+		<string>MonoLisaCodingExtraLight-Italic - 14.0</string>
 		<key>xcode.syntax.string</key>
 		<string>IBMPlexSans - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>MonoLisaNL-Regular - 15.0</string>
+		<string>MonoLisanoscript-Regular - 15.0</string>
 	</dict>
 </dict>
 </plist>
